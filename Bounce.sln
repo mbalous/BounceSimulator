@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceWPF", "BounceWPF\BounceWPF.csproj", "{56346BE1-90FA-48AD-A66D-153247A11262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bounce.Core", "Bounce.Core\Bounce.Core.csproj", "{31C1B1B9-21ED-4BCF-A4C6-05CEE7B250D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceWinForms", "BounceWinForms\BounceWinForms.csproj", "{DA030A27-94DD-411E-9ED6-645223DCF49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56346BE1-90FA-48AD-A66D-153247A11262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56346BE1-90FA-48AD-A66D-153247A11262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56346BE1-90FA-48AD-A66D-153247A11262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56346BE1-90FA-48AD-A66D-153247A11262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C1B1B9-21ED-4BCF-A4C6-05CEE7B250D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C1B1B9-21ED-4BCF-A4C6-05CEE7B250D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C1B1B9-21ED-4BCF-A4C6-05CEE7B250D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C1B1B9-21ED-4BCF-A4C6-05CEE7B250D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA030A27-94DD-411E-9ED6-645223DCF49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA030A27-94DD-411E-9ED6-645223DCF49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA030A27-94DD-411E-9ED6-645223DCF49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA030A27-94DD-411E-9ED6-645223DCF49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
